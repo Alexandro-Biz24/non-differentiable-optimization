@@ -28,4 +28,6 @@ This notebook explores the behavior, tuning, and intuition behind **gradient des
 - Jupyter Notebook for interactive visualization
 
 ---
+Click on 'Research_sous_gradient_.ipynb' to see the project
+
 Alexandro Bizeul
