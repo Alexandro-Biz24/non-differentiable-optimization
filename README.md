@@ -1,4 +1,4 @@
-# non-differentiable-optimization :
+# Non-differentiable-optimization :
 
 This notebook explores the behavior, tuning, and intuition behind **gradient descent** optimization techniques. It is a pedagogical and experimental project to better understand how gradient-based methods behave under different conditions and parameters.
 
